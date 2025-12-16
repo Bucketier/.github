@@ -1,2 +1,0 @@
-# .github
-Contains public files
